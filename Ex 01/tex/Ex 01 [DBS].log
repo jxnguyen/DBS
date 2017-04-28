@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.19)  27 APR 2017 20:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.19)  28 APR 2017 09:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,15 +632,6 @@ LaTeX Info: Redefining \nameref on input line 26.
 \openout3 = `"Ex 01 [DBS].out"'.
 
 
-./Ex 01 [DBS].tex:30: Too many }'s.
-<recently read> }
-                 
-l.30 \rule{\textwidth}{0.4pt}\\}
-                                
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 27--31
 
  []
@@ -663,107 +654,142 @@ Overfull \hbox (9.68753pt too wide) in paragraph at lines 55--56
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-[2]
 Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Overfull \hbox (2.73854pt too wide) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Overfull \hbox (67.29248pt too wide) in paragraph at lines 94--95
+[]\OT1/cmr/m/n/12 http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-
+ []
+
+
+Overfull \hbox (31.0373pt too wide) in paragraph at lines 96--97
+[]\OT1/cmr/m/n/12 https://www.analyticsvidhya.com/blog/2014/11/types-databases-evolution/ 
+ []
+
+
+Overfull \hbox (29.20953pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/12 http://www.brighthub.com/internet/web-development/articles/110654.aspx 
+ []
+
+
+Overfull \hbox (2.73854pt too wide) in paragraph at lines 110--111
 []\OT1/cmr/m/n/12 Was sind NoSQL-Datenbanksysteme? Welche Arten von Daten-banksys-
  []
 
 
-Overfull \hbox (19.57494pt too wide) in paragraph at lines 100--101
+Overfull \hbox (19.57494pt too wide) in paragraph at lines 112--113
 \OT1/cmr/m/n/12 k^^?onnen und abrufen k^^?onnen und damit sind sie geeignet f^^?ur Big-Data/Data-
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 113.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 128.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 113.
+LaTeX Font Info:    Try loading font information for U+msb on input line 128.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 134.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+[4]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 149.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 134.
- [4]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 186.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 149.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 203.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 186.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 203.
 
-Overfull \hbox (41.224pt too wide) in paragraph at lines 186--188
+Overfull \hbox (41.224pt too wide) in paragraph at lines 203--205
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-
-Overfull \hbox (61.69958pt too wide) in paragraph at lines 199--200
+[5]
+Overfull \hbox (61.69958pt too wide) in paragraph at lines 216--217
 \OT1/cmr/m/n/12 URI beze-ich-net wer-den, wie z.B: http://www.example.com/attributeNames/major.
  []
 
-[5] [6] [7]
-Overfull \hbox (28.94365pt too wide) in paragraph at lines 234--234
+[6] [7]
+Overfull \hbox (28.94365pt too wide) in paragraph at lines 251--251
 [][]\OT1/cmr/bx/n/17.28 4. Auf-gabe: Post-greSQL & Pro-gram-mier-sprachen 
+ []
+
+
+Overfull \hbox (39.97194pt too wide) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 All code can be found in the fol-low-ing repos-i-tory: https://github.com/jxnguyen/DBS 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
  []
 
 <installImages/postgres.png, id=53, 678.535pt x 85.31876pt>
 File: installImages/postgres.png Graphic file (type png)
  <use installImages/postgres.png>
-Package pdftex.def Info: installImages/postgres.png used on input line 243.
+Package pdftex.def Info: installImages/postgres.png used on input line 262.
 (pdftex.def)             Requested size: 339.26666pt x 42.65926pt.
  <installImages/pgadmin.png, id=55, 593.21625pt x 80.3pt>
 File: installImages/pgadmin.png Graphic file (type png)
  <use installImages/pgadmin.png>
-Package pdftex.def Info: installImages/pgadmin.png used on input line 244.
+Package pdftex.def Info: installImages/pgadmin.png used on input line 263.
 (pdftex.def)             Requested size: 296.60739pt x 40.14989pt.
  <installImages/haskell.png, id=56, 469.755pt x 72.27pt>
 File: installImages/haskell.png Graphic file (type png)
  <use installImages/haskell.png>
-Package pdftex.def Info: installImages/haskell.png used on input line 245.
+Package pdftex.def Info: installImages/haskell.png used on input line 264.
 (pdftex.def)             Requested size: 234.87692pt x 36.1349pt.
  <installImages/python.png, id=57, 610.28pt x 82.3075pt>
 File: installImages/python.png Graphic file (type png)
  <use installImages/python.png>
-Package pdftex.def Info: installImages/python.png used on input line 246.
+Package pdftex.def Info: installImages/python.png used on input line 265.
 (pdftex.def)             Requested size: 305.13925pt x 41.15364pt.
  <installImages/java.png, id=58, 599.23875pt x 99.37125pt>
 File: installImages/java.png Graphic file (type png)
  <use installImages/java.png>
-Package pdftex.def Info: installImages/java.png used on input line 247.
+Package pdftex.def Info: installImages/java.png used on input line 266.
 (pdftex.def)             Requested size: 299.61864pt x 49.6855pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--248
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
 
  []
 
@@ -771,45 +797,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 243--248
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2015/06/04 1.6 listings language file
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) [8 <./installImages/postgres.png> <./installImages/pgadmin.png> <./installImages/haskell.png> <./installImages/python.png> <./installImages/java.png>] (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-Overfull \hbox (13.02405pt too wide) in paragraph at lines 288--289
+Overfull \hbox (13.02405pt too wide) in paragraph at lines 307--308
 [][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (27.12402pt too wide) in paragraph at lines 290--291
+Overfull \hbox (27.12402pt too wide) in paragraph at lines 309--310
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (20.07404pt too wide) in paragraph at lines 294--295
+Overfull \hbox (20.07404pt too wide) in paragraph at lines 313--314
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 357.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
 [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
  (./Ex 01 [DBS].aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 357.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
 Package rerunfilecheck Info: File `"Ex 01 [DBS]".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 357.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
  9208 strings out of 493014
  127828 string characters out of 6133351
- 243224 words of memory out of 5000000
+ 243305 words of memory out of 5000000
  12583 multiletter control sequences out of 15000+600000
  9714 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,6n,42p,734b,1995s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,42p,734b,1660s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "Ex 01 [DBS].pdf" (9 pages, 195972 bytes).
+Output written on "Ex 01 [DBS].pdf" (9 pages, 204910 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams

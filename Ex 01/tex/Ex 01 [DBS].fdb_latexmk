@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1493317188 "Ex 01 [DBS].tex" "Ex 01 [DBS].pdf" "Ex 01 [DBS]" 1493317189
+["pdflatex"] 1493363649 "Ex 01 [DBS].tex" "Ex 01 [DBS].pdf" "Ex 01 [DBS]" 1493363649
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -85,16 +85,16 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1492593394 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1492593455 3873397 3406df372b25eb2e810d08353543f6ce ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Ex 01 [DBS].aux" 1493317189 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "Ex 01 [DBS].out" 1493317189 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Ex 01 [DBS].tex" 1493317187 22953 4650df8bb990030cd4e70a98b854d4d6 ""
+  "Ex 01 [DBS].aux" 1493363649 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "Ex 01 [DBS].out" 1493363649 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Ex 01 [DBS].tex" 1493363648 23572 08a644d7f10aa6ee154e9e80b1c0abcf ""
   "installImages/haskell.png" 1493309285 25761 090c58ef5f392badb5141c9ab9b3c34a ""
   "installImages/java.png" 1493308825 29412 089c202097951717263c8a286d23386e ""
   "installImages/pgadmin.png" 1493309307 36032 91eb3cc59a7972376d4e48a60cd74867 ""
   "installImages/postgres.png" 1493309321 41118 d13b9333659a91de28404576c5918ae5 ""
   "installImages/python.png" 1493309328 37538 bc5b6e4582654362df828be6d1f433eb ""
   (generated)
-  "Ex 01 [DBS].aux"
-  "Ex 01 [DBS].log"
-  "Ex 01 [DBS].out"
   "Ex 01 [DBS].pdf"
+  "Ex 01 [DBS].out"
+  "Ex 01 [DBS].log"
+  "Ex 01 [DBS].aux"
