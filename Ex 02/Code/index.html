@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset = "utf-8">
+    <title>My Website</title>
+    <script>
+      function sayHello() {
+        // get field value
+        var name = document.getElementById("field").value
+        // if no value entered, use default
+        if (name == "") { name = "anonymous" }
+        // write message in div container
+        document.getElementById("container").innerHTML = "Hello " + name + "!"
+      }
+    </script>
+  </head>
+
+  <body>
+    <label for = "input">
+      Your Name: <input id = "field" name = "input"/>
+    </label>
+    <!-- call sayHello function when button clicked -->
+    <button id = "button" type = "button", onclick = "sayHello()">
+      Click me!
+    </button>
+    <div id = "container"></div>
+  </body>
+</html>
